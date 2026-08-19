@@ -16,7 +16,7 @@ A Claude Code skill that argues with your idea until it becomes something real.
 folder of instructions that turns a chat into a structured brainstorming session.
 Invoke it with `/for-tee-too` and it runs a guided, one‑question‑at‑a‑time
 conversation, mixing hard business scoping with the creative‑ideation toolkit from
-Sinaida's own guide, *От «что же мне сделать?» до вау‑продукта*.
+Sinaida's own experience in corporate and artistic environments.
 
 It is not a chatbot that writes your project brief for you. It plays a studio
 partner who keeps asking “why” until the answer stops moving, then makes you
