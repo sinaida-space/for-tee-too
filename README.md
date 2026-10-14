@@ -6,6 +6,8 @@
 
 A Claude Code skill that argues with your idea until it becomes something real.
 
+> Production mirror. Development and issue tracking run in a private development environment; releases are published here.
+
 [sinaida.eu](https://sinaida.eu/) · [@sin.ai.da](https://www.instagram.com/sin.ai.da/)
 
 ---
