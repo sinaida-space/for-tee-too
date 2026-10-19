@@ -1,6 +1,6 @@
 # Creative-ideation library
 
-Adapted from Sinaida's own guide "От «что же мне сделать?» до вау-продукта"
+Adapted from the author's own guide "От «что же мне сделать?» до вау-продукта"
 (sinaida.eu). Translated and condensed for session use — pull one entry at a time,
 never the whole file, into the conversation.
 
