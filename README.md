@@ -89,6 +89,7 @@ Copy the skill into your Claude Code skills folder:
 
 ```bash
 git clone https://github.com/sinaida-space/for-tee-too.git
+mkdir -p ~/.claude/skills/for-tee-too
 cp -r for-tee-too/SKILL.md for-tee-too/references ~/.claude/skills/for-tee-too/
 ```
 
@@ -108,4 +109,4 @@ her own scoping checklist from years running projects at&nbsp;GE.
 
 This repo is a production mirror.
 
-Development and issue tracking run in a private development environment; releases are published here.
+I develop in a private repo and publish releases here. Issues and ideas are welcome: I read them and carry them over. Pull requests stay open as suggestions; I carry good changes over by hand and then close the PR.

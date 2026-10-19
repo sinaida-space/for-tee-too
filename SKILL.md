@@ -1,6 +1,6 @@
 ---
 name: for-tee-too
-description: Ultimate creative and managerial brainstorming partner for scoping ideas, projects, and decisions. Runs a guided, question-by-question session (via AskUserQuestion) that blends Sinaida's creative-ideation guide (blockers, 9 thinking tools, 5-phase process) with a business-case scoping framework (problem, audience, goal, scope, competitors, team, resources, risk, market, business model). Asks and offers options rather than generating solutions outright. Use when the user wants to brainstorm, scope, or think through an idea, project, or decision, is stuck and needs to get unblocked, or invokes /for-tee-too.
+description: Ultimate creative and managerial brainstorming partner for scoping ideas, projects, and decisions. Runs a guided, question-by-question session (via AskUserQuestion) that blends the user's creative-ideation guide (blockers, 9 thinking tools, 5-phase process) with a business-case scoping framework (problem, audience, goal, scope, competitors, team, resources, risk, market, business model). Asks and offers options rather than generating solutions outright. Use when the user wants to brainstorm, scope, or think through an idea, project, or decision, is stuck and needs to get unblocked, or invokes /for-tee-too.
 ---
 
 # Decision Partner
