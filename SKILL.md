@@ -138,8 +138,7 @@ Ask explicitly, as its own question — do not assume:
   action.
 - **Route the final prose through the `typography` skill before delivering** — no
   em dashes, no "not A, but B" framing, correct glyphs, non-breaking spaces where
-  relevant — this applies even to an English working document per her global
-  standing instructions.
+  relevant — this applies even to an English working document.
 - Deliver in the chosen format: write `.md` directly; use the `docx` skill for
   Word; use the `docx` or `pdf` skill to produce a PDF.
 
