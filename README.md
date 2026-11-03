@@ -24,20 +24,17 @@ defend the direction you land on.
 
 ## Why it exists
 
-Ideas rarely die from lack of talent. They die from three quieter&nbsp;failures:
+Ideas usually die from three quiet&nbsp;failures:
 
 - **The blank page never gets a shape**, because the freedom to do anything
   makes it impossible to do the first thing.
 - **The first workable idea becomes the only idea**, because the brain rewards
   “found it” and stops looking.
-- **The creative part gets built without ever meeting the business part**: no
-  scope, no audience, no answer to “why does this matter, and to whom.”
+- **The creative part gets built without ever meeting the business part**: no&nbsp;scope, no audience, no answer to “why does this matter, and to whom.”
 
-Most AI brainstorming tools make this worse. Ask for ideas, get a wall of
-options, none of them yours. `for-tee-too` inverts the relationship: the model
+Most AI brainstorming tools make this worse. Ask for ideas, get a wall of&nbsp;options, none of them yours. `for-tee-too` inverts the relationship: the model
 asks, offers, and pushes back. The user decides. The guide it's built on states
-the principle directly: *the model generates, you decide. Without filtering an
-answer through your own judgment, you get something statistically likely, not
+the principle directly: *the model generates, you decide. Without filtering an&nbsp;answer through your own judgment, you get something statistically likely, not
 something good.*
 
 ## How it works
@@ -67,7 +64,7 @@ than a fixed script:
    reasons, none of them “the AI suggested it”? If not, the session loops
    back instead of calling it done.
 
-At the end, it asks how you want the result: a Markdown file, a Word document,
+At the end, it asks how you want the result: a Markdown file, a Word&nbsp;document,
 or a PDF, and writes it in your own words, not its summary of&nbsp;them.
 
 <p align="center">
@@ -94,14 +91,13 @@ cp -r for-tee-too/SKILL.md for-tee-too/references ~/.claude/skills/for-tee-too/
 ```
 
 Then invoke it in any Claude Code session with `/for-tee-too`, or just describe
-what you're trying to scope, brainstorm, or decide, and it triggers on its own.
+what&nbsp;you're trying to scope, brainstorm, or decide, and it triggers on its own.
 
 ## Source
 
 The creative‑ideation framework (blockers, the 9 tools, the 5‑phase process,
 and the AI‑as‑coauthor protocols) is adapted from Sinaida's own guide,
-published at [sinaida.eu](https://sinaida.eu/). The business‑case framework is
-her own scoping checklist from years running projects at&nbsp;GE.
+published at [sinaida.eu](https://sinaida.eu/). The business‑case framework is&nbsp;her own scoping checklist from years running projects at&nbsp;GE.
 
 ---
 
